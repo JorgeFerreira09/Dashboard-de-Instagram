@@ -13,11 +13,13 @@ __Quais insights foi possível tirar?__ <br/><br/>
 - Identificação dos criativos que devem ser replicados, baseado em alguns critérios.  <br/><br/>
 - Constatação que nem todas as campanhas com melhor CTR, tiveram maior retenção de audiência. <br/><br/>
 
-__Para conferir o que falei anteriormente em detalhes, clique no link abaixo:__ <br/> 
-:point_right: https://www.youtube.com/watch?v=eiqtvSweWQo&ab_channel=JorgeFerreira <br/><br/>
+__Ferramentas  utilziadas no projeto:__ &nbsp; <br/>
+Looker studio, google planilha, adveronix e  facebook ads. <br/><br/>
 
-__Quais ferramentas foram utilziadas nesse projeto?__ <br/><br/>
-Looker studio, google planilha, adveronix e  facebook ads. 
+:point_right: __Para conferir explicação detalhada do dashboard, clique no link abaixo:__ <br/> 
+ https://www.youtube.com/watch?v=eiqtvSweWQo&ab_channel=JorgeFerreira <br/><br/>
 
-
+__Prints do vídeo:__ <br/><br/> 
 ![Captura de tela 2024-10-25 194216](https://github.com/user-attachments/assets/db886d69-23f8-440c-8bdf-a7fbd94d64fc)
+
+![Captura de tela 2024-10-25 200025](https://github.com/user-attachments/assets/49080c2d-39bc-4957-a676-b8a381ed8bb4)
