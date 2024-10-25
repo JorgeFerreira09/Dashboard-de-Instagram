@@ -19,3 +19,5 @@ __Para conferir o que falei anteriormente em detalhes, clique no link abaixo:__ 
 __Quais ferramentas foram utilziadas nesse projeto?__ <br/><br/>
 Looker studio, google planilha, adveronix e  facebook ads. 
 
+
+![Captura de tela 2024-10-25 194216](https://github.com/user-attachments/assets/db886d69-23f8-440c-8bdf-a7fbd94d64fc)
