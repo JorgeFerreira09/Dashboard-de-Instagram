@@ -1,4 +1,4 @@
-## Dashboard de Instagram - Looker Studio ## 
+## Dashboard de Análise de Instagram ## 
 <br/>
 
 :high_brightness: Sejam todos bem-vindos! :high_brightness:<br/><br/>
